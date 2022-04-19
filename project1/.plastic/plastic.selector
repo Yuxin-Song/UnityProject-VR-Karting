@@ -1,0 +1,4 @@
+repository "project1@ssl://syx465@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
